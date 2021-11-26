@@ -1,0 +1,16 @@
+.row {
+  display: flex;
+  align-items: center;
+  margin: 16px 0;
+  justify-content: space-between;
+}
+
+.row svg {
+  height: 40px;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+}

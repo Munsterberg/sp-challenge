@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const client = axios;
-client.defaults.baseURL = 'https://shakepay.github.io/programming-exercise/web';
+client.defaults.baseURL = 'https://shakepay.github.io/programming-exercise/web/';
 client.defaults.headers.common['Content-Type'] = 'application/json';
 
 // detect forbidden requests to "logout" user

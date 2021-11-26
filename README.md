@@ -14,5 +14,7 @@ Can find the production environment deployed to netlify [here](https://sp-challe
 - axios provides some QoL improvements out of the box, better than writing up a fetch wrapper for
   something like this
 - Chose a CSS library for simplicity (Bootstrap)
+- using react query, new tech for me (but familiar with redux-toolkit-query and use-swr) caused
+  a bit of trouble
 
 ## Extra
